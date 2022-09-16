@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Software Developer from India.</h3>
 
-<img align= “right” alt= “coding” width=”400” src= “[https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif](https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif)”>
+<img align= “right” alt= “coding” width=”400” src= "https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=790b7611a882525af5cc462e7fda0266b798bfa3138958b7&rid=giphy.gif&ct=g”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivektarun&label=Profile%20views&color=0e75b6&style=flat" alt="vivektarun" /> </p>
 
