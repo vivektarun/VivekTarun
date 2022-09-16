@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola I'm Vivek Tarun! 👋
 
-<!--
-**VivekTarun/VivekTarun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on React
+- 🌱 I’m currently learning BlockChain
+- 👯 I’m looking to collaborate on YouTube
+- 🤔 I’m looking for help with Udemy
+- 💬 Ask me about WebD
+- 📫 How to reach me: Insta: @vivektarun
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: Intreste in music & play guitar.
+
