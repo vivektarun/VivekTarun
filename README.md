@@ -2,8 +2,9 @@
 [MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 <h1 align="center">Hi 👋, I'm Vivek Tarun</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
-<p align="right" height="200" width="200"> <img src="https://github.com/VivekTarun/VivekTarun/blob/main/home.gif" alt="VivekTarun"  /> </p>
 
+<p align="left" > <img height="200" width="200" src="https://github.com/VivekTarun/VivekTarun/blob/main/home.gif" alt="VivekTarun"  /> </p>
+<div align="right">
 - 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Blockchain**
@@ -16,7 +17,7 @@
 
 - 📫 How to reach me **vivektarun1234@gmail.com**
 
-- ⚡ Fun fact **Invested in music & play guitar 🎸**
+- ⚡ Fun fact **Invested in music & play guitar 🎸** </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
