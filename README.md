@@ -1,5 +1,5 @@
 
-[![MasterHead](https://github.com/VivekTarun/VivekTarun/blob/main/Cycode-GitHub-Permissions-for-Maximum-Security.png)
+![MasterHead](https://github.com/VivekTarun/VivekTarun/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Vivek Tarun</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
 <img align="right" alt="Coding-gif" src="https://github.com/VivekTarun/VivekTarun/blob/main/home.gif" width="400" >
