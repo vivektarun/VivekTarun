@@ -1,5 +1,5 @@
 
-[MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
+[MasterHead](https://cycode.com/wp-content/uploads/2020/11/Cycode-GitHub-Permissions-for-Maximum-Security.png)
 <h1 align="center">Hi 👋, I'm Vivek Tarun</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
 <img align="right" alt="Coding-gif" src="https://github.com/VivekTarun/VivekTarun/blob/main/home.gif" width="400" >
