@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Vivek Tarun</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
 
-<p align="left" > <img height="200" width="200" src="https://github.com/VivekTarun/VivekTarun/blob/main/home.gif" alt="VivekTarun"  /> </p>
-<div align="right">
+<p align="right" > <img height="200" width="200" src="https://github.com/VivekTarun/VivekTarun/blob/main/home.gif" alt="VivekTarun"  /> </p>
+<div align="left">
 - 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Blockchain**
