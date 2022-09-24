@@ -2,7 +2,7 @@
 [MasterHead](https://3.bp.blogspot.com/-dB6ndKqIAuI/XdWeOASO5AI/AAAAAAAANZA/MSbT9mh6bukxkI-tqnu_GARIZZV5WNVhQCLcBGAsYHQ/s1600/image1.gif)
 <h1 align="center">Hi 👋, I'm Vivek Tarun</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
-<p align="right"> <img src="https://github.com/VivekTarun/VivekTarun/blob/main/home.gif" alt="VivekTarun" /> </p>
+<p align="right"> <img src="https://github.com/VivekTarun/VivekTarun/blob/main/home.gif" alt="VivekTarun" height="200" width="200" /> </p>
 
 - 🔭 I’m currently working on **React**
 
