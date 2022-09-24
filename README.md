@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Vivek Tarun</h1>
 <h3 align="center">A passionate Software Developer from India.</h3>
 
-<p align="right" > <img height="400" width="400" src="https://github.com/VivekTarun/VivekTarun/blob/main/home.gif" alt="VivekTarun"  /> </p>
-<div align="left">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivektarun&label=Profile%20views&color=0e75b6&style=flat" alt="vivektarun" /> </p>
+
 - 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **Blockchain**
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vivektarun1234@gmail.com**
 
-- ⚡ Fun fact **Invested in music & play guitar 🎸** </div>
+- ⚡ Fun fact **Invested in music & play guitar 🎸** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
