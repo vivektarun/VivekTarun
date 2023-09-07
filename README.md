@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 👯 I’m looking to collaborate on **YouTube**
 
