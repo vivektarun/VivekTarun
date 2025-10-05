@@ -6,15 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivektarun&label=Profile%20views&color=0e75b6&style=flat" alt="vivektarun" /> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **NodeJS, Express, React**
 
-- 🌱 I’m currently learning **SwiftUI**
-
-- 👯 I’m looking to collaborate on **YouTube**
-
-- 🤝 I’m looking for help with **Udemy**
-
-- 💬 Ask me about **WebDev**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 📫 How to reach me **vivektarun1234@gmail.com**
 
